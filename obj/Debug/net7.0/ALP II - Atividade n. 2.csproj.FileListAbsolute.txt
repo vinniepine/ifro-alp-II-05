@@ -1,0 +1,30 @@
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.exe
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.deps.json
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.runtimeconfig.json
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.pdb
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.csproj.AssemblyReference.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.AssemblyInfoInputs.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.AssemblyInfo.cs
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.csproj.CoreCompileInputs.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\refint\ALP II - Atividade n. 2.dll
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.pdb
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.genruntimeconfig.cache
+C:\Users\2023102060043\Documents\Vinicius Pinheiro\ALP II - C#\ALP II - Atividade n. 2\obj\Debug\net7.0\ref\ALP II - Atividade n. 2.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.exe
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.deps.json
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.runtimeconfig.json
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\bin\Debug\net7.0\ALP II - Atividade n. 2.pdb
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.csproj.AssemblyReference.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.AssemblyInfoInputs.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.AssemblyInfo.cs
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.csproj.CoreCompileInputs.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\refint\ALP II - Atividade n. 2.dll
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.pdb
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ALP II - Atividade n. 2.genruntimeconfig.cache
+C:\Users\vinni\OneDrive\Área de Trabalho\ALP II - Atividade n. 2\obj\Debug\net7.0\ref\ALP II - Atividade n. 2.dll
